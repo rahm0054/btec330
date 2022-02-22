@@ -6,18 +6,18 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            Programming for Biologists
-tagline:          'A Jekyll theme'
-description:      'Teaching biologists the tools they need to use computers to do cool science'
-url:              http://www.programmingforbiologists.org/
+title:            Intro to Software Applications in Biotechnology
+description:      'UMBC BTEC 330'
+
+url:              https://rahm0054.github.io/btec330/
 baseurl:          /
 
 author:
-  name:           'Ethan White'
-  url:            https://twitter.com/ethanwhite
+  name:           'Nandita Rahman'
+  url:            https://www.linkedin.com/in/nanditarahman/
 
 github:
-  repo:           https://github.com/ethanwhite/progbio/tree/gh-pages
+  repo:           https://github.com/rahm0054/btec330/tree/gh-pages
 
 gems:
   - jekyll-redirect-from
